@@ -69,7 +69,9 @@ Definitely one of those experiences that helped me move a step closer to becomin
 - SWOT & PESTEL Frameworks
 - Time Management & Execution under Pressure
 
+## 🔍 Keywords
 
+Data Analytics, Case Study, Business Analysis, Problem Solving, Demand Forecasting, Inventory Optimization, Root Cause Analysis
 
 
 
