@@ -45,7 +45,9 @@ Even though it was difficult, we focused on understanding the problem quickly, t
 ---
 ## 📄 Certificate
 
-[View Certificate](./certificate PDF.pdf)
+[View Full Certificate](./certificatePDF.pdf)
+
+![Certificate](certificate_1.png)
 ###  What I Gained from This
 
 This experience changed how I approach problems:
