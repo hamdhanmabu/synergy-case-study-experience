@@ -2,14 +2,7 @@
 ## 👤 About Me
 I am an aspiring Data Analyst with a strong interest in solving real-world business problems using data and structured thinking.
 This project reflects my hands-on experience in applying analytics concepts in a competitive environment.
-## 🛠 Skills Demonstrated
-- Data Analytics (Descriptive, Diagnostic, Predictive, Prescriptive)
-- Business Analysis & Problem Solving
-- Root Cause Analysis
-- SWOT & PESTEL Frameworks
-- Time Management & Execution under Pressure
-## 🔍 Keywords
-Data Analytics, Case Study, Business Analysis, Problem Solving, Demand Forecasting, Inventory Optimization, Root Cause Analysi
+
 ## SYNERGY Case Study Competition – My Learning Experience
 
 I recently participated in the SYNERGY Workshop Cum Competition, which involved around 300+ participants divided into multiple teams. This experience was not just about solving a case study, but about understanding how real-world problem solving actually works under pressure.
@@ -69,3 +62,20 @@ More than the result, this experience was about growth.
 It showed me that real-world problems are not always clean or straightforward — but with the right approach, patience, and consistency, they can be handled effectively.
 
 Definitely one of those experiences that helped me move a step closer to becoming better at **practical problem solving**.
+## 🛠 Skills Demonstrated
+- Data Analytics (Descriptive, Diagnostic, Predictive, Prescriptive)
+- Business Analysis & Problem Solving
+- Root Cause Analysis
+- SWOT & PESTEL Frameworks
+- Time Management & Execution under Pressure
+## Data Analytics, Case Study, Business Analysis, Problem Solving, Demand Forecasting, Inventory Optimization, Root Cause Analysis.
+
+
+
+
+
+
+
+
+
+
