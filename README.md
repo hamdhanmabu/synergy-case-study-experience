@@ -43,7 +43,9 @@ What made it challenging:
 Even though it was difficult, we focused on understanding the problem quickly, tried different possible approaches, and made sure we completed all the requirements within the deadline.
 
 ---
+## 📄 Certificate
 
+![Certificate]()
 ###  What I Gained from This
 
 This experience changed how I approach problems:
