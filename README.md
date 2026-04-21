@@ -68,7 +68,6 @@ Definitely one of those experiences that helped me move a step closer to becomin
 - Root Cause Analysis
 - SWOT & PESTEL Frameworks
 - Time Management & Execution under Pressure
-## Data Analytics, Case Study, Business Analysis, Problem Solving, Demand Forecasting, Inventory Optimization, Root Cause Analysis.
 
 
 
